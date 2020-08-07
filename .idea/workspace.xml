@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a4a70b7-300d-4946-9ad2-0bd0f4818439" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    <list default="true" id="2a4a70b7-300d-4946-9ad2-0bd0f4818439" name="Default Changelist" comment="error buildpack">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,12 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,10 +50,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="791" y="390" width="400" height="334" key="#Go_Modules/72.27.1848.1053@72.27.1848.1053" timestamp="1596708073568" />
-    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2" timestamp="1596708054586">
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2" timestamp="1596717413335">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1596708054586" />
+    <state x="535" y="110" width="912" height="893" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1596717413335" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1596716329971">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
